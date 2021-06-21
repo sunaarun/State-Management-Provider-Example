@@ -1,7 +1,17 @@
 # flutter_provider
 
-A new Flutter application.
+A Simple Flutter App (Counter) that shows how to manage **State** using Provider 
 
+![provider](https://user-images.githubusercontent.com/36349126/122753622-d2e1be80-d292-11eb-88c5-4afa1a929cb4.png)
+
+You can read about **State Management** ,here: 
+
+https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro
+
+
+You can read about **Provider** and other approaches, here 
+
+https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
 ## Getting Started
 
 This project is a starting point for a Flutter application.
